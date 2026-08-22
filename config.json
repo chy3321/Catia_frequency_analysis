@@ -1,0 +1,13 @@
+{
+  "material": "Steel",
+  "family": "Metal",
+  "catalog": "D:\\Dassault Systemes\\B32\\win_b64\\startup\\materials\\Catalog.CATMaterial",
+  "n_modes": 10,
+  "max_frequency_hz": 0.0,
+  "mesh_size": 1.0,
+  "restraint": "none",
+  "output_dir": "D:\\Codex project\\catia\\frequency_analysis_project\\output",
+  "save_part": true,
+  "save_analysis": true,
+  "report": true
+}

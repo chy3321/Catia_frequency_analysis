@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 分析输出（每次模拟一个子目录，文件可达数百 MB）
+output/
+
+# 调试临时文件
+tmp/
+
+# 日志与系统文件
+*.log
+.DS_Store
+Thumbs.db
+~$*
+
+# IDE
+.vscode/
+.idea/
